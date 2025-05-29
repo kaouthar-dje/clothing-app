@@ -7,7 +7,7 @@ A React Algerian e-commerce clothing app.
 ## Setup Instructions
 1. Clone the repo:
 git clone https://github.com/kaouthar-dje/clothing-app
-cd react-clothing-app
+cd clothing-app
 2. Install :
 npm install
 3. Run:
