@@ -2,6 +2,7 @@
 
 ## Project Description
 A React Algerian e-commerce clothing app.
+##
 
 ## Setup Instructions
 1. Clone the repo:
@@ -11,13 +12,13 @@ cd react-clothing-app
 npm install
 3. Run:
 npm start
-## Features Implemented
 
+## Features Implemented
 -Product listing with the “New Arrival” badge
 -Product detail page (Includes auto-inc views & reviews)
 -Cart: add, remove, update item quantity and token symbols are shown
 -Clean, responsive UI
 
 ## Group Members
-Djedi Kaouthar 
-Dekkiche Chaima
+-Djedi Kaouthar 
+-Dekkiche Chaima
